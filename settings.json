@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "EnesBatur",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "FreakydoomSMP.aternos.me",
+    "port": 18111,
+    "version": "1.20.4"
   },
   "position": {
     "enabled": true,
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I like Agac!",
+        "I like to play Minecraft agac!"
       ]
     },
     "chat-log": true,
